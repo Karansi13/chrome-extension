@@ -1,0 +1,11 @@
+{
+    "name": "Be a Sigma",
+    "description": "Get a new Sigma Quote Everyday",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_icon": "img.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["storage", "activeTab", "scripting"]
+}
